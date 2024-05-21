@@ -35,6 +35,12 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "oscar",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
     }
   ]
 }
